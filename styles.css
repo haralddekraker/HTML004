@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma, Verdana, Geneva, sans-serif; 
+    font-size: larger;}
+p {line-height: 0.2;}
+li > a {text-decoration: none;}
+.streep {width: 600px}
+.opvallend {color: red;}
+#specifiek {
+    background-color:lightcyan; 
+    width:max-content;
+    border:10px solid greenyellow;
+    border-radius: 10px;}
+img:hover {border: 1px dashed red; background-color: #fcfcfc;padding: 4px;}
